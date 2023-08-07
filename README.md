@@ -19,8 +19,8 @@ Below is the overview of a Responsive Developers Portfolio website I created fee
 
 ### Links
 
-- Solution URL: [Solution Url]([https://your-solution-url.com](https://github.com/Kingsxn/Developer-Portfolio.git))
-- Live Site URL: [Live site URL]([https://your-live-site-url.com](https://kingsxn.github.io/Developer-Portfolio/))
+- Solution URL: [Solution Url](https://github.com/Kingsxn/Developer-Portfolio.git)
+- Live Site URL: [Live site URL](https://kingsxn.github.io/Developer-Portfolio/)
 
 ### Built with
 
