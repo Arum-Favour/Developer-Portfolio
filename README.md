@@ -15,7 +15,7 @@ Below is the overview of a Responsive Developers Portfolio website I created fee
 
 ### Screenshot
 
-(./images/Huddle%20Screenshot.png)
+(./developers Portfolio web screenshot.png)
 
 ### Links
 
