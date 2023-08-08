@@ -24,7 +24,7 @@ Below is the overview of a Responsive Developers Portfolio website I created fee
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HTML5
 - Javascript
 - CSS custom properties
 - Flexbox
@@ -33,6 +33,7 @@ Below is the overview of a Responsive Developers Portfolio website I created fee
 ### Continued development
 
 I took on this project as a medium for me to incoperate some javascript and DOM Manipulation knowledge into a website,it was kinda fun.
+Please let me know of things i could have done better.
 
 ## Author
 - Frontend Mentor - [@kingsxn](https://www.frontendmentor.io/profile/Kingsxn)
